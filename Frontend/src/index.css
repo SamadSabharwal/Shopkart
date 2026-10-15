@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; color: #1f2937; }
+button, input { font: inherit; }
+button { cursor: pointer; }
